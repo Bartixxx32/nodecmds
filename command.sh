@@ -1,1 +1,1 @@
-echo test
+docker system prune -a -f
